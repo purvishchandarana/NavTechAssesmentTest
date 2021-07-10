@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Configuration\\Fields.Configurations.Repository\\Fields.Configurations.Repository.csproj": {}
+    "F:\\Projects\\Configuration\\Fields.Configurations.Repository\\Fields.Configurations.Repository.csproj": {}
   },
   "projects": {
-    "F:\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj": {
+    "F:\\Projects\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj",
+        "projectUniqueName": "F:\\Projects\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj",
         "projectName": "Fields.Configurations.Entities",
-        "projectPath": "F:\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj",
+        "projectPath": "F:\\Projects\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\Configuration\\Fields.Configurations.Entities\\obj\\",
+        "outputPath": "F:\\Projects\\Configuration\\Fields.Configurations.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "F:\\Configuration\\Fields.Configurations.Repository\\Fields.Configurations.Repository.csproj": {
+    "F:\\Projects\\Configuration\\Fields.Configurations.Repository\\Fields.Configurations.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Configuration\\Fields.Configurations.Repository\\Fields.Configurations.Repository.csproj",
+        "projectUniqueName": "F:\\Projects\\Configuration\\Fields.Configurations.Repository\\Fields.Configurations.Repository.csproj",
         "projectName": "Fields.Configurations.Repository",
-        "projectPath": "F:\\Configuration\\Fields.Configurations.Repository\\Fields.Configurations.Repository.csproj",
+        "projectPath": "F:\\Projects\\Configuration\\Fields.Configurations.Repository\\Fields.Configurations.Repository.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\Configuration\\Fields.Configurations.Repository\\obj\\",
+        "outputPath": "F:\\Projects\\Configuration\\Fields.Configurations.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -102,8 +102,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj": {
-                "projectPath": "F:\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj"
+              "F:\\Projects\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj": {
+                "projectPath": "F:\\Projects\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj"
               }
             }
           }

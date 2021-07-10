@@ -575,11 +575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Configuration\\Fields.Configurations.Business\\Fields.Configurations.Business.csproj",
+      "projectUniqueName": "F:\\Projects\\Configuration\\Fields.Configurations.Business\\Fields.Configurations.Business.csproj",
       "projectName": "Fields.Configurations.Business",
-      "projectPath": "F:\\Configuration\\Fields.Configurations.Business\\Fields.Configurations.Business.csproj",
+      "projectPath": "F:\\Projects\\Configuration\\Fields.Configurations.Business\\Fields.Configurations.Business.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "F:\\Configuration\\Fields.Configurations.Business\\obj\\",
+      "outputPath": "F:\\Projects\\Configuration\\Fields.Configurations.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -599,14 +599,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "F:\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj": {
-              "projectPath": "F:\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj"
+            "F:\\Projects\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj": {
+              "projectPath": "F:\\Projects\\Configuration\\Fields.Configurations.Entities\\Fields.Configurations.Entities.csproj"
             },
-            "F:\\Configuration\\Fields.Configurations.Interface\\Fields.Configurations.Interface.csproj": {
-              "projectPath": "F:\\Configuration\\Fields.Configurations.Interface\\Fields.Configurations.Interface.csproj"
+            "F:\\Projects\\Configuration\\Fields.Configurations.Interface\\Fields.Configurations.Interface.csproj": {
+              "projectPath": "F:\\Projects\\Configuration\\Fields.Configurations.Interface\\Fields.Configurations.Interface.csproj"
             },
-            "F:\\Configuration\\Fields.Configurations.Repository\\Fields.Configurations.Repository.csproj": {
-              "projectPath": "F:\\Configuration\\Fields.Configurations.Repository\\Fields.Configurations.Repository.csproj"
+            "F:\\Projects\\Configuration\\Fields.Configurations.Repository\\Fields.Configurations.Repository.csproj": {
+              "projectPath": "F:\\Projects\\Configuration\\Fields.Configurations.Repository\\Fields.Configurations.Repository.csproj"
             }
           }
         }

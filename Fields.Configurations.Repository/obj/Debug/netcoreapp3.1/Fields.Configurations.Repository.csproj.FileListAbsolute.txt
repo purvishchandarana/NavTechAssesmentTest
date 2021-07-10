@@ -8,3 +8,10 @@ F:\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields
 F:\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.dll
 F:\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.pdb
 F:\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.csproj.CopyComplete
+F:\Projects\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.csproj.AssemblyReference.cache
+F:\Projects\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.AssemblyInfoInputs.cache
+F:\Projects\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.AssemblyInfo.cs
+F:\Projects\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.csproj.CoreCompileInputs.cache
+F:\Projects\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.csproj.CopyComplete
+F:\Projects\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.dll
+F:\Projects\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.pdb
