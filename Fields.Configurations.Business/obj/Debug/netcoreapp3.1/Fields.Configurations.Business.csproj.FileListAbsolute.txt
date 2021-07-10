@@ -1,0 +1,10 @@
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Business.deps.json
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Business.dll
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Business.pdb
+F:\Configuration\Fields.Configurations.Business\obj\Debug\netcoreapp3.1\Fields.Configurations.Business.csproj.AssemblyReference.cache
+F:\Configuration\Fields.Configurations.Business\obj\Debug\netcoreapp3.1\Fields.Configurations.Business.AssemblyInfoInputs.cache
+F:\Configuration\Fields.Configurations.Business\obj\Debug\netcoreapp3.1\Fields.Configurations.Business.AssemblyInfo.cs
+F:\Configuration\Fields.Configurations.Business\obj\Debug\netcoreapp3.1\Fields.Configurations.Business.csproj.CoreCompileInputs.cache
+F:\Configuration\Fields.Configurations.Business\obj\Debug\netcoreapp3.1\Fields.Configurations.Business.dll
+F:\Configuration\Fields.Configurations.Business\obj\Debug\netcoreapp3.1\Fields.Configurations.Business.pdb
+F:\Configuration\Fields.Configurations.Business\obj\Debug\netcoreapp3.1\Fields.Configurations.Business.csproj.CopyComplete

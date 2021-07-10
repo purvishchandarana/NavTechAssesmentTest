@@ -1,0 +1,10 @@
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Repository.deps.json
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Repository.dll
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Repository.pdb
+F:\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.csproj.AssemblyReference.cache
+F:\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.AssemblyInfoInputs.cache
+F:\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.AssemblyInfo.cs
+F:\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.csproj.CoreCompileInputs.cache
+F:\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.dll
+F:\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.pdb
+F:\Configuration\Fields.Configurations.Repository\obj\Debug\netcoreapp3.1\Fields.Configurations.Repository.csproj.CopyComplete

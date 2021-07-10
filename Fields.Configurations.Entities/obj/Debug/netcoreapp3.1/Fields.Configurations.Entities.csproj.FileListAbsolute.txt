@@ -1,0 +1,12 @@
+F:\Configuration\Fields.Configurations.Entities\bin\Debug\netcoreapp3.1\Fields.Configurations.Entities.deps.json
+F:\Configuration\Fields.Configurations.Entities\bin\Debug\netcoreapp3.1\Fields.Configurations.Entities.dll
+F:\Configuration\Fields.Configurations.Entities\bin\Debug\netcoreapp3.1\Fields.Configurations.Entities.pdb
+F:\Configuration\Fields.Configurations.Entities\obj\Debug\netcoreapp3.1\Fields.Configurations.Entities.csproj.AssemblyReference.cache
+F:\Configuration\Fields.Configurations.Entities\obj\Debug\netcoreapp3.1\Fields.Configurations.Entities.AssemblyInfoInputs.cache
+F:\Configuration\Fields.Configurations.Entities\obj\Debug\netcoreapp3.1\Fields.Configurations.Entities.AssemblyInfo.cs
+F:\Configuration\Fields.Configurations.Entities\obj\Debug\netcoreapp3.1\Fields.Configurations.Entities.csproj.CoreCompileInputs.cache
+F:\Configuration\Fields.Configurations.Entities\obj\Debug\netcoreapp3.1\Fields.Configurations.Entities.dll
+F:\Configuration\Fields.Configurations.Entities\obj\Debug\netcoreapp3.1\Fields.Configurations.Entities.pdb
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Entities.deps.json
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Entities.dll
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Entities.pdb

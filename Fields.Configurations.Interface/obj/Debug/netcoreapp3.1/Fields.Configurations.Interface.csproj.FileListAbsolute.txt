@@ -1,0 +1,13 @@
+F:\Configuration\Fields.Configurations.Interface\bin\Debug\netcoreapp3.1\Fields.Configurations.Interface.deps.json
+F:\Configuration\Fields.Configurations.Interface\bin\Debug\netcoreapp3.1\Fields.Configurations.Interface.dll
+F:\Configuration\Fields.Configurations.Interface\bin\Debug\netcoreapp3.1\Fields.Configurations.Interface.pdb
+F:\Configuration\Fields.Configurations.Interface\obj\Debug\netcoreapp3.1\Fields.Configurations.Interface.AssemblyInfoInputs.cache
+F:\Configuration\Fields.Configurations.Interface\obj\Debug\netcoreapp3.1\Fields.Configurations.Interface.AssemblyInfo.cs
+F:\Configuration\Fields.Configurations.Interface\obj\Debug\netcoreapp3.1\Fields.Configurations.Interface.csproj.CoreCompileInputs.cache
+F:\Configuration\Fields.Configurations.Interface\obj\Debug\netcoreapp3.1\Fields.Configurations.Interface.dll
+F:\Configuration\Fields.Configurations.Interface\obj\Debug\netcoreapp3.1\Fields.Configurations.Interface.pdb
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Interface.deps.json
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Interface.dll
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Interface.pdb
+F:\Configuration\Fields.Configurations.Interface\obj\Debug\netcoreapp3.1\Fields.Configurations.Interface.csproj.AssemblyReference.cache
+F:\Configuration\Fields.Configurations.Interface\obj\Debug\netcoreapp3.1\Fields.Configurations.Interface.csproj.CopyComplete

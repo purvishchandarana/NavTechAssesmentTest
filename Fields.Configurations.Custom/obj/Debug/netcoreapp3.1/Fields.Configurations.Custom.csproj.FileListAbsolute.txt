@@ -1,0 +1,16 @@
+F:\Configuration\Fields.Configurations.Custom\obj\Debug\netcoreapp3.1\Fields.Configurations.Custom.csproj.AssemblyReference.cache
+F:\Configuration\Fields.Configurations.Custom\obj\Debug\netcoreapp3.1\Fields.Configurations.Custom.AssemblyInfoInputs.cache
+F:\Configuration\Fields.Configurations.Custom\obj\Debug\netcoreapp3.1\Fields.Configurations.Custom.AssemblyInfo.cs
+F:\Configuration\Fields.Configurations.Custom\obj\Debug\netcoreapp3.1\Fields.Configurations.Custom.csproj.CoreCompileInputs.cache
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Configuration.deps.json
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Configuration.runtimeconfig.json
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Configuration.runtimeconfig.dev.json
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\appsettings.Development.json
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\appsettings.json
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Configuration.exe
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Custom.deps.json
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Custom.dll
+F:\Configuration\Configuration\bin\Debug\netcoreapp3.1\netcoreapp3.1\Fields.Configurations.Custom.pdb
+F:\Configuration\Fields.Configurations.Custom\obj\Debug\netcoreapp3.1\Fields.Configurations.Custom.csproj.CopyComplete
+F:\Configuration\Fields.Configurations.Custom\obj\Debug\netcoreapp3.1\Fields.Configurations.Custom.dll
+F:\Configuration\Fields.Configurations.Custom\obj\Debug\netcoreapp3.1\Fields.Configurations.Custom.pdb

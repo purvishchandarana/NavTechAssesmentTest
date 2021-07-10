@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fields.Configurations.Custom/1.0.0": {
+        "dependencies": {
+          "Configuration": "1.0.0"
+        },
+        "runtime": {
+          "Fields.Configurations.Custom.dll": {}
+        }
+      },
+      "Configuration/1.0.0": {
+        "dependencies": {
+          "Fields.Configurations.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Configuration.dll": {}
+        }
+      },
+      "Fields.Configurations.Entities/1.0.0": {
+        "runtime": {
+          "Fields.Configurations.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fields.Configurations.Custom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Configuration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fields.Configurations.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
