@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>F:\Configuration\Configuration\bin\Debug\netcoreapp3.1</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fields.Configurations.Entities\Fields.Configurations.Entities.csproj" />
+    <ProjectReference Include="..\Fields.Configurations.Interface\Fields.Configurations.Interface.csproj" />
+    <ProjectReference Include="..\Fields.Configurations.Repository\Fields.Configurations.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

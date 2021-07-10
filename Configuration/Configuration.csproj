@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fields.Configurations.Business\Fields.Configurations.Business.csproj" />
+    <ProjectReference Include="..\Fields.Configurations.Entities\Fields.Configurations.Entities.csproj" />
+    <ProjectReference Include="..\Fields.Configurations.Interface\Fields.Configurations.Interface.csproj" />
+  </ItemGroup>
+
+
+</Project>
